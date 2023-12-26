@@ -1,7 +1,7 @@
-// 搜索验证 -> drpy_ocr自动过搜索验证失败
+// 搜索验证 -> drpy_ocr自动过搜索验证失败http://shapp.us/
 var rule={
     title:'骚火电影',
-    // host:'https://shdy3.com',
+    // host:'https://saohuo.vip/',
     host:'http://shapp.us',
     hostJs:'print(HOST);let html=request(HOST,{headers:{"User-Agent":PC_UA}});let src=jsp.pdfh(html,"a:eq(2)&&href");print(src);HOST=src',
     // url:'/list/fyclass-fypage.html',
@@ -25,7 +25,7 @@ var rule={
     quickSearch:0,
     headers:{'User-Agent':'MOBILE_UA', },
     timeout:5000,//网站的全局请求超时,默认是3000毫秒
-    class_name:'电影&电视剧&动漫',
+    class_name:'电影&电视剧&动漫&最新&最热',
     class_url:'1&2&4',
     play_parse:true,
     lazy:`js:
