@@ -1,5 +1,5 @@
 {
-  "spider": "./fty.jar;md5;89d697916e9b66cf6b9bfd81981f274d",
+  "spider": "./fty.jar;md5;f8e21d60027d5d4f9e287be44f192c3f",
   "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
   "warningText": "资源来自网络，所有内容仅供学习使用，请勿用于违法及商业用途，请勿付费购买。",
   "sites": [
@@ -174,7 +174,7 @@
   ],
   "parses": [
     {"name": "聚合","type": 3,"url": "Demo" },
-    {"name": "神秘的哥哥们","type": 1,"url": "http://api.888484.xyz/jiexi/米太硬.php?url=","ext": {  "flag": [    "qq",    "腾讯",    "qiyi",    "爱奇艺",    "奇艺",    "youku",    "优酷",    "tucheng",    "sohu",    "搜狐",    "letv",    "乐视",    "mgtv",    "芒果",    "tnmb",    "seven",    "yzm",    "aliyun",    "RJuMao",    "bilibili",    "1905",    "xinvip",    "XAL",    "qiqi",    "XALS",    "YuMi-vip"  ]} },
+    {"name": "神秘的哥哥们","type": 1,"url": "http://api.888484.xyz/神秘哥哥/super.php?v=","ext": {  "flag": [    "qq",    "腾讯",    "qiyi",    "爱奇艺",    "奇艺",    "youku",    "优酷",    "tucheng",    "sohu",    "搜狐",    "letv",    "乐视",    "mgtv",    "芒果",    "tnmb",    "seven",    "yzm",    "aliyun",    "RJuMao",    "bilibili",    "1905",    "xinvip",    "XAL",    "qiqi",    "XALS",    "YuMi-vip"  ]} },
     {"name": "公众号","type": 1,"url": "https://api.tyun77.cn/api.php/provide/parseDicturl?url=","ext": {  "flag": [    "qq",    "腾讯",    "qiyi",    "iqiyi",    "爱奇艺",    "奇艺",    "youku",    "优酷",    "mgtv",    "芒果",    "letv",    "乐视",    "pptv",    "PPTV",    "sohu",    "bilibili",    "哔哩哔哩",    "哔哩"  ]} },
     {"name": "免费分享","type": 0,"url": "https://jx.xmflv.com/?url=","ext": {  "flag": [    "qq",    "腾讯",    "qiyi",    "爱奇艺",    "奇艺",    "youku",    "优酷",    "mgtv",    "芒果",    "imgo",    "letv",    "乐视",    "pptv",    "PPTV",    "sohu",    "bilibili",    "哔哩哔哩",    "哔哩"  ],  "header": {    "User-Agent": "okhttp/4.1.0"  }}
     }
@@ -202,7 +202,23 @@
     }
   ],
   "lives": [
-    {"name": "live","type": 0,"url": "./js/live.txt","playerType": 1,"ua": "okhttp/3.15","epg": "http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"
+    {
+      "name": "sao0",
+      "type": 0,
+      "url": "./js/tvlive.txt",
+      "playerType": 1,
+      "ua": "okhttp/3.15",
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
+    {
+      "name": "ipv6",
+      "type": 0,
+      "url": "./js/ipv6.m3u",
+      "playerType": 1,
+      "ua": "okhttp/3.15",
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
     }
   ]
 }
