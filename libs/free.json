@@ -7,23 +7,29 @@
   "主演": "主演：&&</div>",
   "影片类型": "module-info-tag\">&&立即播放",
   "影片状态": "集数：&&</div>",
+
+//分类页面
   "数组": "<a&&/div></div></a>",
   "标题": "title=\"&&\"",
   "副标题": "note\">&&</div>",
   "图片": "data-original=\"&&\"",
   "链接": "href=\"&&\"",
-  "搜索url": "/vodsearch/-------------.html?wd={wd}",
+
+//搜索页面
+  "搜索url": "/v-so/-------------.html?wd={wd}",     //https://www.freeok.vip/v-so/一念关山-------------.html
   "搜索数组": "module-card-item-class\">&&</a>",
   "搜索标题": "alt=\"&&\"",
   "搜索副标题": "note\">&&</div>",
   "搜索图片": "data-original=\"&&\"",
   "搜索链接": "href=\"&&\"",
+
+//播放列表
   "线路数组": "data-dropdown-value=&&</div>",
   "线路标题": "<span>&&</small>[替换:</span><small>>>>⚡️共]+集⚡️",
   "播放数组": "<div class=\"module-play-list-content&&</div>",
   "播放标题": "<span>&&</span>",
   "播放列表": "<a&&</a>",
-  "分类url": "https://www.freeok.vip/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html",
+  "分类url": "https://www.freeok.vip/vod-show/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html",        //https://www.freeok.vip/vod-show/1-----------.html
   "分类": "电影$1#电视剧$2#动漫$3#综艺$4",
   "筛选": {
     "1": [
