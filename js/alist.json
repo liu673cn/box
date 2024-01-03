@@ -1,9 +1,93 @@
+/*[{
+"name": "小鸭",
+"server": "http://shicheng.wang:555/",
+"startPage": "/",
+"showAll": false,
+"search": true,
+"params": {
+"/abc": {
+"password": "123"
+},
+"/abc/abc": {
+"password": "123"
+}
+}
+},
 {
-  "vodPic": "https://x.imgs.ovh/x/2023/09/05/64f680bb030b4.png",
+"name": "小猫",
+"server": "https://nics.eu.org",
+"startPage": "/SP1",
+"showAll": false,
+"search": true,
+"params": {
+"/abc": {
+"password": "123"
+},
+"/abc/abc": {
+"password": "123"
+}
+}
+},
+{
+"name": "小狗电影",
+"server": "https://alist.ccome.site",
+"startPage": "/电影",
+"showAll": false,
+"search": true,
+"params": {
+"/abc": {
+"password": "123"
+},
+"/abc/abc": {
+"password": "123"
+}
+}
+},
+{
+"name": "小鸟剧集",
+"server": "https://alist.ccome.site",
+"startPage": "/电视剧1",
+"showAll": false,
+"search": true,
+"params": {
+"/abc": {
+"password": "123"
+},
+"/abc/abc": {
+"password": "123"
+}
+}
+},
+{
+"name": "小象动漫",
+"server": "https://alist.ccome.site",
+"startPage": "/动漫",
+"showAll": false,
+"search": true,
+"params": {
+"/abc": {
+"password": "123"
+},
+"/abc/abc": {
+"password": "123"
+}
+}
+}
+]*/
+{
+  "vodPic": "https://s1.ax1x.com/2023/05/04/p9tgI81.png",
   "drives": [
     {
-      "name": "小雅",
-      "server": "http://alist.xiaoya.pro"
+      "name": "🦆鸭鸭",
+      "server": "http://shicheng.wang:555/"
+    },
+    {
+      "name": "NICS",
+      "server": "https://nics.eu.org"
+    },
+    {
+      "name": "ECVE",
+      "server": "https://pan.ecve.cn"
     },
     {
       "name": "觸光",
@@ -24,22 +108,6 @@
     {
       "name": "梓澪",
       "server": "https://zi0.cc"
-    },
-    {
-      "name": "範本",
-      "server": "https://one.fongmi.com",
-      "search": true,
-      "hidden": false,
-      "login": {
-        "username": "fongmi",
-        "password": "fongmi"
-      },
-      "params": [
-        {
-          "path": "/安齋拉拉",
-          "pass": "18181818"
-        }
-      ]
     }
   ]
 }
