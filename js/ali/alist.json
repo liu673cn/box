@@ -2,6 +2,10 @@
   "vodPic": "https://x.imgs.ovh/x/2023/09/05/64f680bb030b4.png",
   "drives": [
                     {
+                        "name": "🙋丫仙女",
+                        "server": "http://alist.xiaoya.pro/"
+                    },
+                    {
                         "name": "🥮 罗汉",
                         "server": "https://lala-ofbip.run.goorm.site/"
                     },
