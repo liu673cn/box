@@ -5,14 +5,7 @@
                         "name": "🙋丫仙女",
                         "server": "http://alist.xiaoya.pro/"
                     },
-                    {
-                        "name": "🥮 罗汉",
-                        "server": "https://lala-ofbip.run.goorm.site/"
-                    },
-                    {
-                        "name": "🥮 福利",
-                        "server": "http://69.161.221.160:5244/"
-                    },
+
                     {
                         "name": "🥮 合集",
                         "server": "http://www.jczyl.top:5244/"
@@ -40,6 +33,14 @@
                     {
                         "name": "🥮 潇洒",
                         "server": "https://alist.azad.asia/"
+                    },
+                    {
+                        "name": "🥮 罗汉",
+                        "server": "https://lala-ofbip.run.goorm.site/"
+                    },
+                    {
+                        "name": "🥮 福利",
+                        "server": "http://69.161.221.160:5244/"
                     },
                     {
                         "name": "🥮 鹏程",
