@@ -56,7 +56,7 @@
 {"key":"csp_七月","name":"🅱️┃七月┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"jar": "./js/HCCX.jar","ext":"./libs/hccx/七月影视.json"},
 {"key":"csp_日后","name":"🅱️┃348┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"jar": "./js/HCCX.jar","ext":"./libs/hccx/348影视.json"},
 {"key":"csp_土豪","name":"🅱️┃土豪┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"jar": "./js/HCCX.jar","ext":"./libs/hccx/土豪影视.json"},
-{"key":"csp_兔年","name":"🅱️┃┃YYDS┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"jar": "./js/HCCX.jar","ext":"./libs/hccx/YYDS影视.json"},
+{"key":"csp_兔年","name":"🅱️┃YYDS┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"jar": "./js/HCCX.jar","ext":"./libs/hccx/YYDS影视.json"},
 {"key":"csp_达龟","name":"🐢┃达龟┃影院","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"jar": "./js/HCCX.jar","ext":"./libs/hccx/达达龟影视.json"},
 {"key": "csp_黑狐","name": "🦝┃黑狐┃影视","type": 3,"api": "csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"jar": "./js/HCCX.jar","ext":"./libs/hccx/黑狐影视.json"},
 {"key":"csp_苹果","name":"🅱️┃苹果┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"jar": "./js/HCCX.jar","ext":"./libs/hccx/苹果影视.json"},
@@ -226,7 +226,7 @@
     {
       "name": "sao0",
       "type": 0,
-      "url": "https://xhdwc.tk/tvlive.txt",
+      "url": "http://我不是.肥猫.live/TV/tvzb.txt",
       "playerType": 1,
       "ua": "okhttp/3.15",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
