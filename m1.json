@@ -1,6 +1,6 @@
 //以下内容为互联网收集，只为自用。
 {
-  "spider": "./fty.jar;md5;64110baeb9974690f7b374a8b2586ac5",
+  "spider": "./fty.jar;md5;b90b0b641f1e382073125f63f77bb9fe",
   "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
   "warningText": "资源来自网络，所有内容仅供学习使用，请勿用于违法及商业用途，请勿付费购买。",
   "sites": [
@@ -9,9 +9,8 @@
     {"key": "csp_KungFu404","name": "🔥设置Token","type": 3,"api": "csp_KungFu404","searchable": 0,"filterable": 0,"changeable": 0,"ext": "http://127.0.0.1:9978/file/tvbox/token.txt","jar": "./js/alibaba.jar"},
    {"key": "商店","name": "🎰┃蜂蜜┃商店","type": 3,"api": "csp_Market","searchable": 0,"changeable": 0,"ext": "https://fm.t4tv.hz.cz/json/market.json","jar": "./js/app.jar"},
     {"key": "玩偶哥哥","name": "👽┃玩偶┃哥哥","type": 3,"api": "csp_WoGG","searchable": 1,"quickSearch": 1,"changeable": 0,"ext": "http://127.0.0.1:9978/file/tvbox/token.txt+4k|auto|fhd$$$https://api.wogg.xyz/$$$弹"},
-    {"key": "Kuaikan","name": "🦋┃快看┃影视","type": 3,"api": "csp_Kuaikan","searchable": 1,"quickSearch": 1,"filterable": 1},
+    {"key": "Kuaikan","name": "🦋┃快看┃影视","type": 3,"api": "csp_Kuaikan","searchable": 1,"quickSearch": 1,"filterable": 1,"jar": "./js/duo.jar"},
     {"key": "csp_Btwtoo","name":"✌┃两个┃鼻涕","type": 3,"api": "csp_Bttwoo","searchable": 1,"quickSearch": 1,"filterable": 1},
-    {"key": "dr_nangua","name": "🎃┃南瓜┃Js","type": 3,"api": "./js/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./libs/dr/nangua.js"},
     {"key": "dr_低端","name": "🔥┃低端┃Js","type": 3,"api": "./js/drpy2.min.js","searchable": 1,"playerType": 2,"quickSearch": 1,"filterable": 1,"ext": "./libs/dr/ddys.js"},
     {"key": "dr_荐片","name": "⏳┃荐片┃Js","type": 3,"api": "./js/drpy2.min.js","searchable": 1,"playerType": 1,"quickSearch": 1,"filterable": 1,"ext": "./libs/dr/荐片.js"},
     {"key": "js_Lib","name": "🍲┃Lib┃影视","type": 3,"api": "./js/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./libs/dr/libvio.js"},
@@ -56,7 +55,7 @@
 {"key":"csp_七月","name":"🅱️┃七月┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"jar": "./js/HCCX.jar","ext":"./libs/hccx/七月影视.json"},
 {"key":"csp_日后","name":"🅱️┃348┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"jar": "./js/HCCX.jar","ext":"./libs/hccx/348影视.json"},
 {"key":"csp_土豪","name":"🅱️┃土豪┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"jar": "./js/HCCX.jar","ext":"./libs/hccx/土豪影视.json"},
-{"key":"csp_兔年","name":"🅱️┃YYDS┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"jar": "./js/HCCX.jar","ext":"./libs/hccx/YYDS影视.json"},
+{"key":"csp_兔年","name":"🅱️┃┃YYDS┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"jar": "./js/HCCX.jar","ext":"./libs/hccx/YYDS影视.json"},
 {"key":"csp_达龟","name":"🐢┃达龟┃影院","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"jar": "./js/HCCX.jar","ext":"./libs/hccx/达达龟影视.json"},
 {"key": "csp_黑狐","name": "🦝┃黑狐┃影视","type": 3,"api": "csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"jar": "./js/HCCX.jar","ext":"./libs/hccx/黑狐影视.json"},
 {"key":"csp_苹果","name":"🅱️┃苹果┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"jar": "./js/HCCX.jar","ext":"./libs/hccx/苹果影视.json"},
@@ -187,7 +186,10 @@
 {"key": "csp_Bili_Yinl2","name": "🅱️┃音悦┃合集","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"jar": "./js/HCCX.jar","ext": "./libs/yinyue.json"},
 {"key": "js_哔哩直播","name": "🅱️┃哔哩┃直播","type": 3,"api": "./js/drpy2.min.js","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "./libs/哔哩直播.js"},
 
-
+    {"key":"drpy_js_Alist","name":"网盘 | Alist[js]","type":3,"api":"./js/ali/alist.min.js","ext":"./js/ali/alist.json"},
+    {"key": "本地","name": "本地存储","type": 3,"api": "csp_Local","searchable": 0,"changeable": 0},
+    {"key": "AList","name": "AList","type": 3,"api": "csp_AList","searchable": 1,"changeable": 0,"ext": "./js/ali/alist1.json"},
+    {"key": "WebDAV","name": "WebDAV","type": 3,"api": "csp_WebDAV","searchable": 1,"changeable": 0,"ext": "./js/ali/webdav.json"},
 
 
 {"key": "短视频","name": "📱┃网红┃美女","type": 3,"api": "csp_XBPQ","searchable": 0,"quickSearch": 0,"filterable": 0,"jar": "./js/HCCX.jar","ext": "./libs/短视频聚合.json"
@@ -226,7 +228,16 @@
     {
       "name": "sao0",
       "type": 0,
-      "url": "http://我不是.肥猫.live/TV/tvzb.txt",
+      "url": "./js/tv/tvzb.txt",
+      "playerType": 1,
+      "ua": "okhttp/3.15",
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
+    {
+      "name": "sao1",
+      "type": 0,
+      "url": "./js/tv/tvlive.txt",
       "playerType": 1,
       "ua": "okhttp/3.15",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
@@ -235,7 +246,7 @@
     {
       "name": "ipv6",
       "type": 0,
-      "url": "https://live.fanmingming.com/tv/m3u/ipv6.m3u",
+      "url": "./js/tv/ipv6.m3u",
       "playerType": 1,
       "ua": "okhttp/3.15",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
