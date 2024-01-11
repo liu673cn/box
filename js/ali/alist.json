@@ -1,10 +1,11 @@
 {
   "vodPic": "https://x.imgs.ovh/x/2023/09/05/64f680bb030b4.png",
   "drives": [
-                    {
-                        "name": "🙋丫仙女",
-                        "server": "http://alist.xiaoya.pro/"
-                    },
+          {
+            "name": "🦆托盘",
+            "server": "https://pan.mediy.cn/"
+          },
+{"name": "🙋丫仙女","server": "http://alist.xiaoya.pro/"},
 {"name":"🌱Arley","server":"http://45.85.77.23:5244/"},
 {"name":"🌱小雅搜","server":"http://116.204.127.178:5678/"},
 {"name":"🌱小丫搜","server":"http://121.36.255.202:5678/"},
