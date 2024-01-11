@@ -1,0 +1,13 @@
+{
+        "分类url": "https://www.freeok.vip/vod-show/{cateId}-{area}-------{catePg}---{year}.html",
+        "分类": "Free电影&Free剧集&Free动漫&Free综艺&Free短剧&Free少儿",
+        "分类值": "1&2&3&4&12&5",
+        "播放请求头": "User-Agent$Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36",
+        "副标题": "<div class=\"module-item-note\">&&</div>",
+        "嗅探词": "m3u8#.m3u8#.mp4#freeok.mp4#/obj/",
+        "线路数组": "data-dropdown-value=&&</div>[不包含:夸克]",
+        "线路标题": "<span>&&</small>",
+        "导演": "导演：&&</div>",
+        "主演": "主演：&&</div>",
+        "简介": "请勿相信影片中的广告，以免上当受骗。+<p>&&</p>"
+      }
