@@ -13,6 +13,7 @@
       "key": "直播转点播",
       "name": "📺︎┃电视┃点播",
       "type": 3,
+      "playerType":1,
       "api": "./js/zbzdb.js",
       "searchable": 1,
       "quickSearch": 0,
