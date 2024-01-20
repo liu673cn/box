@@ -1,14 +1,14 @@
 //以下内容为互联网收集，只为自用。
 {
-  "spider": "./fty.jar;md5;c774c41f98e151b33aa70e525b38164a",
-  "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
-  "warningText": "资源来自网络，所有内容仅供学习使用，请勿用于违法及商业用途，请勿付费购买。",
-  "sites": [
-    {"key": "csp_豆瓣","name": "🌕豆瓣┃软件接口皆是免费,禁止贩卖『个人自用』💢v2401","type": 3,"api": "csp_DouDou","searchable": 0,"quickSearch": 0,"filterable": 0},
-    {"key": "csp_KungFu404","name": "🔥设置Token","type": 3,"api": "csp_KungFu404","searchable": 0,"filterable": 0,"changeable": 0,"ext": "http://127.0.0.1:9978/file/tvbox/token.txt","jar": "./js/alibaba.jar"},
-   {"key": "商店","name": "🎰┃蜂蜜┃商店","type": 3,"api": "csp_Market","searchable": 0,"changeable": 0,"ext": "https://fm.t4tv.hz.cz/json/market.json","jar": "./js/app.jar"},
-    {"key": "直播转点播","name": "📺︎┃电视┃点播","playerType":1,"type": 3,"api": "./js/tv/zb.min.js","searchable": 1,"quickSearch": 0,"filterable": 0,"ext": "./js/tv/zb.json"},
-    {"key": "玩偶哥哥","name": "👽┃玩偶┃哥哥","type": 3,"api": "csp_WoGG","searchable": 1,"quickSearch": 1,"changeable": 0,"ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://www.wogg.xyz/$$$弹"},
+   "spider": "./fty.jar;md5;87c10cb2cda0a4cca965373ec8d02c7b",
+   "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
+   "warningText": "资源来自网络，所有内容仅供学习使用，请勿用于违法及商业用途，请勿付费购买。",
+   "sites": [
+     {"key": "csp_豆瓣","name": "🌕豆瓣┃软件接口皆是免费,禁止贩卖『个人自用』💢v2402","type": 3,"api": "csp_DouDou","searchable": 0,"quickSearch": 0,"filterable": 0},
+     {"key": "csp_KungFu404","name": "🔥设置Token","type": 3,"api": "csp_KungFu404","searchable": 0,"filterable": 0,"changeable": 0,"ext": "http://127.0.0.1:9978/file/tvbox/token.txt","jar": "./js/alibaba.jar"},
+    {"key": "商店","name": "🎰┃蜂蜜┃商店","type": 3,"api": "csp_Market","searchable": 0,"changeable": 0,"ext": "https://fm.t4tv.hz.cz/json/market.json","jar": "./js/app.jar"},
+     {"key": "直播转点播","name": "📺︎┃电视┃点播","playerType":1,"type": 3,"api": "./js/tv/zb.min.js","searchable": 1,"quickSearch": 0,"filterable": 0,"ext": "./js/tv/zb.json"},
+     {"key": "玩偶哥哥","name": "👽玩偶┃4K弹幕","type": 3,"api": "csp_WoGG","searchable": 1,"quickSearch": 1,"changeable": 0,"ext": "http://127.0.0.1:9978/file/tvbox/token.txt+4k|auto|fhd$$$https://www.wogg.xyz/$$$弹"},
     {"key": "YGP","name": "🚀┃叨观┃荐影","type": 3,"api": "csp_YGP","searchable": 0,"quickSearch": 0,"changeable": 0 },
 {"key":"cc_03影院","name": "🛀┃03┃影院","type": 3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable": 1,"jar":"./js/c.jar","ext": "./libs/c/03yy.json"},
 {"key":"cc_free","name": "🌟┃free┃影视","type": 3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable": 1,"jar":"./js/c.jar","ext": "./libs/c/freeok.json"},
