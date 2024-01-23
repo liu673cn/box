@@ -2,6 +2,7 @@
 ### 以上为互联网流传资源，不保证内容的真实性和可靠性。本页面只是收集自用请勿宣传。
 
 ------
+如有些资源无法加载: Box -→ 设置 -→ 安全Dns -→ 阿里    
 如某些网页打不开可能是DNS解析被劫持。  
 
 阿里公共DNS：https://www.alidns.com/knowledge?type=SETTING_DOCS#user  
