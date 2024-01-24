@@ -34,7 +34,7 @@
     "分类url":"https://www.voflix.me/show/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html",
     //https://www.voflix.me/show/1-中国大陆-time-喜剧-----1---2023.html
 
-    "分类":"电影$1#电视剧$2#动漫$3#综艺$4",
+    "分类":"电影$1#电视剧$2#综艺$3#动漫$4",
     
     "筛选":{
     "1":[

@@ -32,7 +32,7 @@
 
 //分类{cateId}，地区{area}，排序{by}，剧情{class}，语言{lang}，页面{catePg}，年份{year}
     "分类url":"https://55vid.shop/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html",
-    "分类":"电影$1#电视剧$2#动漫$4#综艺$3",
+    "分类":"电影$1#电视剧$2#综艺$3#动漫$4",
     
     "筛选":{
     "1":[
