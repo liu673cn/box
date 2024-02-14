@@ -14,7 +14,7 @@
             "name": " 🥞小米线路"
         },                                                               
         {
-            "url": "https://raw.nuaa.cf/liu673cn/box/main/m.json",
+            "url": "https://raw.kkgithub.com/liu673cn/box/main/m.json",
             "name": "🥚老刘备"
         },
         {
@@ -26,7 +26,7 @@
             "name": "菜妮丝线路"
         },
         {
-            "url": "https://raw.fgit.cf/xyq254245/xyqonlinerule/main/XYQTVBox.json",
+            "url": "https://raw.kkgithub.com/xyq254245/xyqonlinerule/main/XYQTVBox.json",
             "name": " 🍳香雅情"
         },  
         {
@@ -66,7 +66,7 @@
             "name": "💢小马线路"
         },  
         {
-            "url": "https://raw.fgit.cf/liu673cn/fm/main/m.json",
+            "url": "https://raw.kkgithub.com/liu673cn/fm/main/m.json",
             "name": "🥨fm-JS"
         },  
 
@@ -90,15 +90,15 @@
         },  
 	
         {
-            "url": "https://raw.nuaa.cf/gaotianliuyun/gao/master/0822.json",
+            "url": "https://raw.kkgithub.com/gaotianliuyun/gao/master/0822.json",
             "name": " ok线路"
         },
         {
-            "url": "https://raw.nuaa.cf/gaotianliuyun/gao/master/0825.json",
+            "url": "https://raw.kkgithub.com/gaotianliuyun/gao/master/0825.json",
             "name": " PG线路"
         },
         {
-            "url": "https://raw.nuaa.cf/gaotianliuyun/gao/master/js.json",
+            "url": "https://raw.kkgithub.com/gaotianliuyun/gao/master/js.json",
             "name": " 高山JS"
         },
         {
