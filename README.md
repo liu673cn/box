@@ -2,7 +2,7 @@
 ### 以上为互联网流传资源，不保证内容的真实性和可靠性。本页面只是收集自用请勿宣传。
 
 ------
-https://raw.liucn.cc/box/m.json 　http://liucn.hz.cz/box/m.json  
+https://raw.liucn.cc/box/m.json  
 香港代理：https://raw.kkgithub.com/liu673cn/box/main/m.json  
 
 ------
