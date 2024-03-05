@@ -1,5 +1,6 @@
 综合,#genre#
 浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
+CCTV13新闻频道,rtmp://live-play.cctvnews.cctv.com/cctv/merge_cctv13
 CCTV1,mitv://generationnexxxt.com:19806/f1e3bc8a344e49dab603272c8fd2641e
 CCTV2,mitv://generationnexxxt.com:19806/ce08ee69cea5402c99bf285704eac3e5
 CCTV3,mitv://generationnexxxt.com:19806/784f6703531044be9cee14b793948d30
@@ -256,6 +257,108 @@ EYE TV戏剧台,mitv://generationnexxxt.com:19806/2831986ed4b448c9b626788fbd3f2f
 MTV,mitv://generationnexxxt.com:19806/eb5ba5262e2e4779a1418c78d14ad1e5
 东森购物1台,mitv://generationnexxxt.com:19806/eccc79da1c0a4b54b49a71277e1534a0
 东森购物2台,mitv://generationnexxxt.com:19806/71a90a7da65142e795b97def2400e1fb
+
+
+
+
+
+
+
+
+百事通,#genre#
+CCTV16-4K,http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/cctv16hd4k/15000000/mnf.m3u8
+CCTV-4K,http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/cctv4k/15000000/mnf.m3u8
+欢笑剧场4k,http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/hxjc4k/15000000/mnf.m3u8
+CCTV1 8M,http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/cctv1hd8m/8000000/mnf.m3u8
+CCTV2 8M,http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/cctv2hd8m/8000000/mnf.m3u8
+CCTV3 8M,http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/cctv38m/8000000/mnf.m3u8
+CCTV4 8M,http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/cctv4hd8m/8000000/mnf.m3u8
+CCTV5 8M,http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/cctv58m/8000000/mnf.m3u8
+CCTV5+ 8M,http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/cctv5phd8m/8000000/mnf.m3u8
+CCTV6 8M,http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/cctv6hd8m/8000000/mnf.m3u8
+CCTV7 8M,http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/cctv7hd8m/8000000/mnf.m3u8
+CCTV8 8M,http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/cctv8hd8m/8000000/mnf.m3u8
+CCTV9 8M,http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/cctv9hd8m/8000000/mnf.m3u8
+CCTV10 8M,http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/cctv10hd8m/8000000/mnf.m3u8
+CCTV11 8M,http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/cctv11hd8m/8000000/mnf.m3u8
+CCTV12 8M,http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/cctv12hd8m/8000000/mnf.m3u8
+CCTV13 8M,http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/cctv13xwhd8m/8000000/mnf.m3u8
+CCTV14 8M,http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/cctvsehd8m/8000000/mnf.m3u8
+CCTV15 8M,http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/cctv15hd8m/8000000/mnf.m3u8
+CCTV16 8M,http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/cctv16hd8m/8000000/mnf.m3u8
+CCTV17 8M,http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/cctv17hd8m/8000000/mnf.m3u8
+江苏卫视 8M,http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/jswshd8m/8000000/mnf.m3u8
+广西卫视 8M,http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/gxwshd8m/8000000/mnf.m3u8
+四川卫视 8M,http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/scwshd/8000000/mnf.m3u8
+湖南卫视 8M,http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/hunanwshd8m/8000000/mnf.m3u8
+浙江卫视 8M,http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/zjwshd8m/8000000/mnf.m3u8
+东方卫视 8M,http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/dfwshd8m/8000000/mnf.m3u8
+北京卫视 8M,http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/bjwshd8m/8000000/mnf.m3u8
+天津卫视 8M,http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/tjwshd8m/8000000/mnf.m3u8
+辽宁卫视 8M,http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/lnwshd8m/8000000/mnf.m3u8
+安徽卫视 8M,http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/ahwshd8m/8000000/mnf.m3u8
+黑龙江卫视 8M,http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/hljwshd8m/8000000/mnf.m3u8
+广东卫视 8M,http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/gdwshd8m/8000000/mnf.m3u8
+深圳卫视 8M,http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/szwshd8m/8000000/mnf.m3u8
+湖北卫视 8M,http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/hubeiws8m/8000000/mnf.m3u8
+吉林卫视 8M,http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/jlwshd8m/8000000/mnf.m3u8
+山东卫视 8M,http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/sdws8m/8000000/mnf.m3u8
+江西卫视 8M,http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/jxws8m/8000000/mnf.m3u8
+河南卫视 8M,http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/hnwshd8m/8000000/mnf.m3u8
+河北卫视 8M,http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/hbwshd8m/8000000/mnf.m3u8
+甘肃卫视 8M,http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/gswshd8m/8000000/mnf.m3u8
+重庆卫视 8M,http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/cqws8m/8000000/mnf.m3u8
+东南卫视 8M,http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/dnwshd8m/8000000/mnf.m3u8
+云南卫视 8M,http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/ynwshd8m/8000000/mnf.m3u8
+贵州卫视 8M,http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/gzwshd8m/8000000/mnf.m3u8
+海南卫视 8M,http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/hainanwshd8m/8000000/mnf.m3u8
+欢笑剧场 8M,http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/hxjc8m/8000000/mnf.m3u8
+劲爆体育 8M,http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/jbtyhd8m/8000000/mnf.m3u8
+快乐垂钓 8M,http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/klcd8m/8000000/mnf.m3u8
+金鹰纪实 8M,http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/jyjs8m/8000000/mnf.m3u8
+戏曲精选 8M,http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/xqjx8m/8000000/mnf.m3u8
+上海第一财经 8M,http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/dycjhd8m/8000000/mnf.m3u8
+上视新闻 8M,http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/xwzhhd8m/8000000/mnf.m3u8
+上海都市 8M,http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/dshd8m/8000000/mnf.m3u8
+上海纪实 8M,http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/jspdhd/4000000
+东方影视 8M,http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/dfyshd8m/8000000/mnf.m3u8
+五星体育 8M,http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/wxtyhd8m/8000000/mnf.m3u8
+上视外语 8M,http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/icshd8m/8000000/mnf.m3u8
+七彩戏剧 8M,http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/qcxjhd8m/8000000/mnf.m3u8
+上海教育 8M,http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/setvhd/8000000/mnf.m3u8
+全纪实 8M,http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/qjshd8m/8000000/mnf.m3u8
+生活时尚 8M,http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/shss8m/8000000/mnf.m3u8
+新视觉 8M,http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/xsjhd8m/8000000/mnf.m3u8
+游戏风云 8M,http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/yxfy8m/8000000/mnf.m3u8
+热门综艺 8M,http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/rmzy8m/8000000/mnf.m3u8
+超级体育 8M,http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/qcsj8m/8000000/mnf.m3u8
+健康养生 8M,http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/jkys8m/8000000/mnf.m3u8
+百变课堂 8M,http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/bbkt8m/8000000/mnf.m3u8
+看天下精选 8M,http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/ktxjx8m/8000000/mnf.m3u8
+华语影院 8M,http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/hyyy8m/8000000/mnf.m3u8
+电竞天堂 8M,http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/djtt8m/8000000/mnf.m3u8
+青春动漫 8M,http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/qcdm8m/8000000/mnf.m3u8
+宝宝动画 8M,http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/bbdh8m/8000000/mnf.m3u8
+星光影院 8M,http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/xgyy8m/8000000/mnf.m3u8
+谍战剧场 8M,http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/dzjc8m/8000000/mnf.m3u8
+全球大片 8M,http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/qqdp8m/8000000/mnf.m3u8
+热门剧场 8M,http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/rmjc8m/8000000/mnf.m3u8
+陶瓷高清 8M,http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/taocihd/8000000/mnf.m3u8
+中国教育-1 8M,http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/zgjy1t8m/8000000/mnf.m3u8
+中国教育-4 8M,http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/zgjy4hd8m/8000000/mnf.m3u8
+卡酷少儿 8M,http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/kkse8m/8000000/mnf.m3u8
+纪实科教 8M,http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/dajs8m/8000000/mnf.m3u8
+茶频道 8M,http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/cpdhdavs8m/8000000/mnf.m3u8
+足球高清 8M,http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/zqpd8m/8000000/mnf.m3u8
+炫动卡通 8M,http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/hhxd8m/8000000/mnf.m3u8
+东方财经 8M,http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/dfcjhd8m/8000000/mnf.m3u8
+都市剧场 8M,http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/dsjc8m/8000000/mnf.m3u8
+动漫秀场 8M,http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/dmxc8m/8000000/mnf.m3u8
+法治天地 8M,http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/fztd8m/8000000/mnf.m3u8
+金色学堂 8M,http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/jingsepd8m/8000000/mnf.m3u8
+魅力足球 8M,http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/mlyyhd8m/8000000/mnf.m3u8
+
+
 
 小地方,#genre#
 义乌新闻综合,https://44911.hlsplay.aodianyun.com/tv_radio_44911/tv_channel_1796.m3u8?auth_key=4830573978-0-0-92824c2c03f95906a3c49a4aa28f1709&extra_key=Yc1XsmxOKy2UBoPM4Wy5vCPsEYqnj06taCR2SRB2Xrg2w28NPilH03KdIbbM5wgSql-VBohSnoO9AOKl94q2t2DWMftz-XB-2qUX-UjXcS80StcSZahBFjrKLivXaRjiY5r2NOMKWMKFbv-S0Bz2G6iEXgCK8yGjtrFHDcPfAQEE0pvXq0Bwy34b7We8zARN&ali_ffmpeg_version=mpengine
