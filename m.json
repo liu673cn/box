@@ -7,7 +7,6 @@
      {"key": "csp_douban","name": "🌕┃豆瓣┃热播","type": 3,"api": "csp_DouDou","searchable": 0,"quickSearch": 0,"filterable": 0},
     {"key": "js_豆瓣","name": "🐼┃豆瓣┃推荐","type": 3,"api": "./libs/js/drpy2.min.js","searchable": 1,"quickSearch": 0,"changeable": 0,"ext": "./libs/js/豆瓣推荐.js"},
      {"key": "csp_KungFu404","name": "🔥设置Token","type": 3,"api": "csp_KungFu404","searchable": 0,"filterable": 0,"changeable": 0,"jar": "./libs/jar/Token.jar","ext": "http://127.0.0.1:9978/file/tvfan/token.txt"},
-    //{"key": "商店","name": "🎰┃蜂蜜┃商店","type": 3,"api": "csp_Market","searchable": 0,"changeable": 0,"ext": "https://fm.t4tv.hz.cz/json/market.json","jar": "./libs/jar/app.jar"},
     {"key": "APP商店","name": "🎰┃蜂蜜┃商店","type": 3,"api": "csp_Market","searchable": 0,"changeable": 0,"ext": "./libs/market.json","jar": "./libs/jar/app.jar"},
      {"key": "直播转点播","name": "📺︎┃电视┃点播","playerType":1,"type": 3,"api": "./libs/tv/zb.min.js","searchable": 1,"quickSearch": 0,"filterable": 0,"ext": "./libs/tv/zb.json"},
     {"key": "虎牙直播js","name": "🐯┃虎牙┃直播","playerType":1,"type": 3,"api": "./libs/js/drpy2.min.js","ext": "./libs/js/虎牙直播.js","style": {  "type": "rect",  "ratio": 1.755},"searchable": 0,"quickSearch": 0,"changeable": 0 },
