@@ -4,8 +4,16 @@
     "name": "推薦",
     "list": [
       {
-        "url": "https://i.imgs.ovh/2023/10/19/2mfxN.jpeg",
-        "icon": "https://i.imgs.ovh/2023/10/19/2mfxN.jpeg"
+        "name": "影视仓_5.0.28.1",
+        "url": "https://pan.shangui.cc/f/X8ZdFd/影视仓_5.0.28.1.apk",
+        "icon": "http://liucn.cc/box/img/dc01.jpg",
+        "version": "通用版"
+      },
+      {
+        "name": "Player_5.0.28.1",
+        "url": "https://pan.shangui.cc/f/NpNlIj/Player_5.0.28.1_内置.apk",
+        "icon": "http://liucn.cc/box/img/duo.png",
+        "version": "内置版"
       }
     ]
   },
@@ -32,7 +40,7 @@
       {
         "name": "影视仓_5.0.28.1",
         "url": "https://pan.shangui.cc/f/X8ZdFd/影视仓_5.0.28.1.apk",
-        "icon": "http://liucn.cc/box/img/%E5%A4%9A%E4%BB%931.png",
+        "icon": "http://liucn.cc/box/img/dc01.jpg",
         "version": "通用版"
       },
       {
@@ -50,13 +58,13 @@
       {
         "name": "影视仓_2.0.26.4",
         "url": "https://pan.shangui.cc/f/wdEnsg/影视仓_2.0.26.4_短视频.apk",
-        "icon": "http://liucn.cc/box/img/%E5%A4%9A%E4%BB%932.png",
+        "icon": "http://liucn.cc/box/img/dc02.jpg",
         "version": "视频版"
       },
       {
         "name": "影视仓_2.0.26.4",
         "url": "https://pan.shangui.cc/f/5qZJUA/影视仓_2.0.26.4_游戏版.apk",
-        "icon": "http://liucn.cc/box/img/%E5%A4%9A%E4%BB%932.png",
+        "icon": "http://liucn.cc/box/img/dc02.jpg",
         "version": "游戏版"
       }
     ]
