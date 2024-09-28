@@ -10,17 +10,30 @@
             "name": " 🧀肥猫宝贝"
         },               
        {
-            "url": "http://xhww.fun/小米/DEMO.json",
+            "url": "http://www.mpanso.com/小米/DEMO.json",
             "name": " 🥞小米线路"
-        },          
-        {
-            "url": "http://liucn.cc/box/m.json",
-            "name": "🥚老刘CC"
-        },                                                     
+        },               
+       {
+            "url": "https://git.acwing.com/iduoduo/orange/-/raw/main/jsm.json",
+            "name": " 🥞网盘线路"
+        },                  
+       {
+            "url": "https://gh.con.sh/https://raw.githubusercontent.com/leevi0709/one/main/jsm.json",
+            "name": " 🥞One线路"
+        },                  
+       {
+            "url": "https://cdn.gitmirror.com/gl/duomv/dzhipy/main/index.json",
+            "name": " 🥞道长线路"
+        },                         
         {
             "url": "https://100km.top/0",
             "name": " 🥓Ray线路"
         },
+        {
+            "url": "http://liucn.cc/box/m.json",
+            "name": "🥚老刘CC"
+        },                                                     
+
         {
             "url": "https://s2.pub/wuaihezi",
             "name": " 💜吾爱线路"
