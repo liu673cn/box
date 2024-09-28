@@ -24,7 +24,15 @@
        {
             "url": "https://cdn.gitmirror.com/gl/duomv/dzhipy/main/index.json",
             "name": " 🥞道长线路"
-        },                         
+        },           
+       {
+            "url": "http://tvbox.王二小放牛娃.top",
+            "name": " 🥞牛蛙线路"
+        },   
+       {
+            "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/api.json",
+            "name": " 🥞次元分享"
+        },                 
         {
             "url": "https://100km.top/0",
             "name": " 🥓Ray线路"
@@ -37,14 +45,6 @@
         {
             "url": "https://s2.pub/wuaihezi",
             "name": " 💜吾爱线路"
-        },
-        {
-            "url": "https://atomgit.com/lintech/tms/raw/master/source/stable/main.json",
-            "name": "码上稳定版"
-        },
-        {
-            "url": "https://atomgit.com/lintech/tms/raw/master/source/nightly/main.json",
-            "name": "码上领先版"
         },
         {
             "url": "http://xzweb.top/cs/%E5%BD%B1%E8%A7%86%E6%8E%A5%E5%8F%A3/main/hys4k.json",
